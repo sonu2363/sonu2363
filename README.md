@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonu Sah</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-<img alt="Coding" width="400" src="https://mcdn.wallpapersafari.com/medium/7/7/smkLDo.png">
+<img alt="Coding" width="800" src="https://mcdn.wallpapersafari.com/medium/7/7/smkLDo.png">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
